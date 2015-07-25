@@ -1,0 +1,25 @@
+{
+  "name": "request-parse-json",
+  "version": "1.0.0",
+  "description": "Simple module to parse response from request module as JSON.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saintedlama/request-parse-json.git"
+  },
+  "keywords": [
+    "parse",
+    "request",
+    "json",
+    "http"
+  ],
+  "author": "'Christoph <'christoph.walcher@gmail.com'>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saintedlama/request-parse-json/issues"
+  },
+  "homepage": "https://github.com/saintedlama/request-parse-json#readme"
+}
